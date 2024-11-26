@@ -7,9 +7,11 @@ semua resiko di tanggung sendri jiga akun anda ke banned.
 step 1
 pkg install python
 ```
-- Install requirements, Windows:
 ```bash
 pip install -r requirements.txt
+colorama
+aiohttp
+fake-useragent
 ```
 rup
 -setup.py
