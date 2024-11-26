@@ -17,7 +17,22 @@ masukan email :
 masukan password :
 bisa dengan manual 
 edit userid.txt dan token.txt
-jangan lupa setup proxy
+
+2. set proxy di proxies.ttx contoh seperti ini
+
+	```
+
+ 	ip:port
+
+	username:password@ip:port
+
+	http://ip:port
+
+	http://username:password@ip:port
+
+	socks5://ip:port
+
+	socks5://username:password@ip:port
 
 
 
